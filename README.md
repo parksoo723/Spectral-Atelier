@@ -66,9 +66,10 @@
 ## 🛠️ 개발 스택
 
 - TypeScript
-- HTML5 Canvas
+- HTML
 - CSS
-- Web 기반 인터랙션
+- ClipStudio
+- Adobe illustrator
 
 ---
 
